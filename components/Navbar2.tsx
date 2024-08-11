@@ -218,7 +218,7 @@ function NavBar() {
             data-auto-id="true"
             id="page-header-homepage-1"
           >
-            <img src="https://ucarecdn.com/6c1db2f0-a838-418d-9cfa-d83c7dc8b111/8a91d52bc39e4172ad2f0d86cc6948c1.jpg" alt="" width={150} />
+            <img src="https://ucarecdn.com/30044e55-d0e4-4465-917e-56d7ca8354bd/8a91d52bc39e4172ad2f0d86cc6948c1.webp" alt="" width={150} />
           </a>
           <button id='hamburger' className="hamburger xl:pointer-fine:br_invisible" onClick={handleClick}>
             <span />

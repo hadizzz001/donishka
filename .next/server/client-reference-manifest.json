@@ -56,6 +56,70 @@
         "async": false
       }
     },
+    "(app-client)/./app/api/sendEmail/sendEmail.ts": {
+      "*": {
+        "id": "(sc_client)/./app/api/sendEmail/sendEmail.ts",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/context/CartBoolContext.js": {
+      "*": {
+        "id": "(sc_client)/./app/context/CartBoolContext.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/context/CartContext.js": {
+      "*": {
+        "id": "(sc_client)/./app/context/CartContext.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./app/layout.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/layout.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/CarCard.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/CarCard.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Footer.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/Footer.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/GifLoader.js": {
+      "*": {
+        "id": "(sc_client)/./components/GifLoader.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./components/Navbar2.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/Navbar2.tsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/page.tsx": {
       "*": {
         "id": "(sc_client)/./app/page.tsx",
@@ -152,65 +216,9 @@
         "async": false
       }
     },
-    "(app-client)/./app/api/sendEmail/sendEmail.ts": {
+    "(app-client)/./app/privacy/page.jsx": {
       "*": {
-        "id": "(sc_client)/./app/api/sendEmail/sendEmail.ts",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./app/context/CartBoolContext.js": {
-      "*": {
-        "id": "(sc_client)/./app/context/CartBoolContext.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./app/context/CartContext.js": {
-      "*": {
-        "id": "(sc_client)/./app/context/CartContext.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./app/layout.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/layout.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./components/CarCard.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/CarCard.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./components/Footer.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/Footer.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./components/GifLoader.js": {
-      "*": {
-        "id": "(sc_client)/./components/GifLoader.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
-    "(app-client)/./components/Navbar2.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/Navbar2.tsx",
+        "id": "(sc_client)/./app/privacy/page.jsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -379,6 +387,70 @@
       ],
       "async": false
     },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\api\\sendEmail\\sendEmail.ts": {
+      "id": "(app-client)/./app/api/sendEmail/sendEmail.ts",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\context\\CartBoolContext.js": {
+      "id": "(app-client)/./app/context/CartBoolContext.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\context\\CartContext.js": {
+      "id": "(app-client)/./app/context/CartContext.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\layout.tsx": {
+      "id": "(app-client)/./app/layout.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\CarCard.tsx": {
+      "id": "(app-client)/./components/CarCard.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\Footer.tsx": {
+      "id": "(app-client)/./components/Footer.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\GifLoader.js": {
+      "id": "(app-client)/./components/GifLoader.js",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\Navbar2.tsx": {
+      "id": "(app-client)/./components/Navbar2.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
     "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\page.tsx": {
       "id": "(app-client)/./app/page.tsx",
       "name": "*",
@@ -507,72 +579,28 @@
       ],
       "async": false
     },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\api\\sendEmail\\sendEmail.ts": {
-      "id": "(app-client)/./app/api/sendEmail/sendEmail.ts",
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\privacy\\page.jsx": {
+      "id": "(app-client)/./app/privacy/page.jsx",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\context\\CartBoolContext.js": {
-      "id": "(app-client)/./app/context/CartBoolContext.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\context\\CartContext.js": {
-      "id": "(app-client)/./app/context/CartContext.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\layout.tsx": {
-      "id": "(app-client)/./app/layout.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\CarCard.tsx": {
-      "id": "(app-client)/./components/CarCard.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\Footer.tsx": {
-      "id": "(app-client)/./components/Footer.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\GifLoader.js": {
-      "id": "(app-client)/./components/GifLoader.js",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\components\\Navbar2.tsx": {
-      "id": "(app-client)/./components/Navbar2.tsx",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/privacy/page:static/chunks/app/privacy/page.js"
       ],
       "async": false
     }
   },
   "entryCSSFiles": {
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\layout": {
+      "modules": [
+        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\bootstrap.min.css",
+        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\bs-select.css",
+        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\custom.css",
+        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\globals.css",
+        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\slick.css"
+      ],
+      "files": [
+        "static/css/app/layout.css"
+      ]
+    },
     "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\page": {
       "modules": [
         "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\node_modules\\react-responsive-carousel\\lib\\styles\\carousel.min.css",
@@ -586,17 +614,9 @@
       "modules": [],
       "files": []
     },
-    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\layout": {
-      "modules": [
-        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\bootstrap.min.css",
-        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\bs-select.css",
-        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\custom.css",
-        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\globals.css",
-        "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\slick.css"
-      ],
-      "files": [
-        "static/css/app/layout.css"
-      ]
+    "C:\\Users\\abc\\Desktop\\Hadi\\My Bussiness\\Donishka\\web\\app\\privacy\\page": {
+      "modules": [],
+      "files": []
     }
   }
 }
